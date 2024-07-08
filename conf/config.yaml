@@ -1,0 +1,114 @@
+# Config definition
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# 1.Data General Setting. Can be replaced in respective sets
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+DATA:
+ DATASETS:
+  NAMES: ('amr-genome')
+  ROOT_DIR: ('./src/tigecycline/')
+
+
+ DATALOADER:
+  NUM_WORKERS: 0
+  SAMPLER: 'class_balance_random'
+
+ TRANSFORM:
+  SEQUENCE_CROP_SIZE: 2000  #100000
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# 2.Model General Setting. Can be replaced in respective sets Structure Information
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+MODEL:
+ DEVICE: "cuda" #DEVICE: "cpu"
+ DEVICE_ID: (0,) #DEVICE_ID: (1,)
+ BACKBONE_NAME: "seqnet"
+ BACKBONE_INPUT_TYPE: "single-instance"              #"single-instance", "multi-instance"
+ CLASSIFIER_NAME: "build-in"
+ CLASSIFIER_OUTPUT_TYPE: "single-label"                #"single-label", "multi-label"
+ CLA_NUM_CLASSES: 2
+ PREPROCESSOR_NAME: "multi_linear"
+ #PRETRAINED: 1
+ PRETRAINED: 0
+ PRETRAIN_PATH: './work_space_miloss/seqnet_model_20.pth'
+ BIAS_FREE: 0
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# 3.LOSS General Setting. Can be replaced in respective sets Structure Information
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+LOSS:
+ TYPE: 'multi_instance_feat_loss multi_instance_feat_reg_loss multi_instance_token_loss multi_instance_token_reg_loss'   #'cross_entropy_loss'
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# 4.Solver
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+SOLVER:
+ MAX_EPOCHS: 20
+ EVAL_PERIOD: 1
+ CHECKPOINT_PERIOD: 1
+ LOG_PERIOD: 100 #50
+ OUTPUT_DIR: "work_space/amr"
+
+ # OPTIMIZER
+ OPTIMIZER:
+  NAME: "Adam"                         #"SGD", "Adam"
+  MOMENTUM: 0.9
+  WEIGHT_DECAY: 0.0005
+  WEIGHT_DECAY_BIAS: 0.
+  ACCUMULATION_STEP: 1
+
+ # SCHEDULER
+ SCHEDULER:
+  NAME: "WarmupCosineLR" #"WarmupMultiStepLR"        # "WarmupMultiStepLR", "WarmupCosineLR"
+  STEP_UNIT: "epoch"               # "epoch", "iteration"
+  STEP_FREQUENCY: "iteration"      # "epoch", "iteration"
+  BASE_LR: 0.001
+  BIAS_LR_FACTOR: 1
+  START_FROM_SCRATCH: 1
+  # WARM UP
+  WARMUP_METHOD: "linear"
+  WARMUP_FACTOR: 0.33
+  WARMUP_STEPS: 2
+  # SPECIFIC
+  GAMMA: 0.1
+  MILESTONES: [10, 15, 20]
+  MAIN_STEPS: 20
+
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# Specific Setting - Train Configuration
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+TRAIN:
+ DATALOADER:
+  CATEGORIES_PER_BATCH: 2
+  INSTANCES_PER_CATEGORY_IN_BATCH: 8 #16 #16
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# Specific Setting - Val Configuration
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+VAL:
+ DATALOADER:
+  CATEGORIES_PER_BATCH: 2
+  INSTANCES_PER_CATEGORY_IN_BATCH: 8 #16 #16
+
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# Specific Setting - Test Configuration
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+TEST:
+ #WEIGHT: "./work_space/seqnet_model_20.pth"
+ DATALOADER:
+  CATEGORIES_PER_BATCH: 2
+  INSTANCES_PER_CATEGORY_IN_BATCH: 8 #16

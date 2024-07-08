@@ -1,0 +1,72 @@
+
+merged_data:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/merged_data.csv
+
+stratified_sample:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/stratified_sample.csv
+
+merge_kmer_df:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermediate/merge_kmer_df.pq
+
+genomes:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/test.csv
+
+genomes_kmers: 
+  type: pandas.CSVDataset
+  filepath: data/03_primary/genomes_kmers.csv
+
+genomes_kmers_amr: 
+  type: pandas.CSVDataset
+  filepath: data/04_feature/genomes_kmers_amr.csv
+
+annotation:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/annotation.csv
+
+train_data:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/train.csv
+
+val_data:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/val.csv
+
+test_data:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/test.csv
+
+model_results:
+  type: pandas.CSVDataset
+  filepath: ./data/02_intermediate/model_results.csv
+
+
+#Prediction
+# in catalog.yml
+prepared_data:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/prepared_data.csv
+
+X_s_train:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/X_s_train.csv
+
+X_s_test:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/X_s_test.csv
+
+y_s_train:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/y_s_train.csv
+
+y_s_test:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/y_s_test.csv
+
+model_performance:
+  type: pandas.CSVDataset
+  filepath: data/04_feature/model_performance.csv
+

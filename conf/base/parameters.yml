@@ -1,0 +1,22 @@
+k: 11
+
+max_workers: 18
+
+test_size: 4500
+
+antibiotic: "tetracycline"
+
+df_antibiotic_metadata_path: "./data/01_raw/patric2021_cleaned_1b.xlsx"
+
+antibiotic_class_json_path: "./conf/base/antibiotic_classes.json"
+
+path_raw: "./data/02_intermediate/fna"
+
+rpath_raw: "./data/02_intermediate/fna_line"
+
+path_kmer: "./data/02_intermediate/kmer"
+path_merge_kmer: "./data/02_intermediate/"
+
+train_ratio: 0.64
+val_ratio: 0.16
+test_ratio: 0.2

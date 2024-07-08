@@ -1,0 +1,654 @@
+genome_id,genbank_id,tax_id,antibiotic,resistant_phenotype,class,antibiotic_class,taxonomy_label,strain_identifiers
+1313.19767,GCA_901279805.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC17
+1448627.3,GCA_000654575.1,1448627,rifampicin,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,M1024
+1422705.3,GCA_000646395.1,1422705,methicillin,resistant,beta-lactam,,staphylococcus,VET1849R
+1496.949,GCA_900008785.1,1496,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0330
+1313.19007,GCA_901240885.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC21
+562.45599,GCA_004282515.1,562,ampicillin,resistant,beta-lactam,penicillins,escherichia,strain EC_78
+562.45599,GCA_004282515.1,562,nitrofurantoin,susceptible,nitrofuran,miscellaneous,escherichia,strain EC_78
+1398966.3,GCA_000515855.1,1398966,amikacin,resistant,aminoglycoside,aminoglycosides,acinetobacter,UH22908
+1313.19261,GCA_901250915.1,1313,penicillin,susceptible,beta-lactam,penicillins,streptococcus,strain GPSC241
+595.35,GCA_004744955.1,595,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,salmonella,subsp. enterica serovar Infantis strain 88sa
+595.35,GCA_004744955.1,595,ceftriaxone,susceptible,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Infantis strain 88sa
+595.35,GCA_004744955.1,595,ciprofloxacin,susceptible,quinolone,fluoroquinolones,salmonella,subsp. enterica serovar Infantis strain 88sa
+548.324,GCA_003071285.1,548,ciprofloxacin,susceptible,quinolone,fluoroquinolones,klebsiella,strain AR_0161
+1447544.3,GCA_000629025.1,1447544,ciprofloxacin,susceptible,quinolone,fluoroquinolones,pseudomonas,BWH036
+1304919.4,GCA_000417425.1,1304919,colistin,resistant,polymyxin,polymyxins,klebsiella,280_1220
+470.773,GCA_000814345.1,470,amikacin,susceptible,aminoglycoside,aminoglycosides,acinetobacter,6200
+1313.18947,GCA_901238885.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC25
+760837.3,GCA_000232985.2,760837,telithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,GA47388
+1422803.3,GCA_000646135.1,1422803,methicillin,susceptible,beta-lactam,,staphylococcus,VET1817S
+90371.2472,GCA_002090955.1,90371,chloramphenicol,resistant,amphenicols,miscellaneous,salmonella,subsp. enterica serovar Typhimurium strain R8_0764_R1
+573.18088,GCA_003073335.1,573,ertapenem,resistant,beta-lactam,carbapenems,klebsiella,strain AR_0079
+1313.20268,GCA_901295775.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC5
+1438755.3,GCA_000693915.1,1438755,ciprofloxacin,resistant,quinolone,fluoroquinolones,klebsiella,CHS 49
+90371.2484,GCA_002091255.1,90371,ampicillin,resistant,beta-lactam,penicillins,salmonella,subsp. enterica serovar Typhimurium strain R8_8081_R1
+562.28567,GCA_003000675.1,562,ciprofloxacin,resistant,quinolone,fluoroquinolones,escherichia,strain AR_0370
+33894.6,GCA_000666125.1,33894,amikacin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,strain MAL020148
+1304916.4,GCA_000417405.1,1304916,aztreonam,resistant,beta-lactam,monobactams,klebsiella,140_1040
+287.1187,GCA_000796145.1,287,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,AZPAE14404
+1496.1175,GCA_900014525.1,1496,clarithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0384
+1402494.3,GCA_000481825.1,1402494,tobramycin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,S54485
+573.23204,GCA_003937005.1,573,nitrofurantoin,resistant,nitrofuran,miscellaneous,klebsiella,strain KP_346
+1402491.3,GCA_000481885.1,1402491,imipenem,resistant,beta-lactam,carbapenems,pseudomonas,CF5
+727.1592,GCA_900408165.1,727,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,haemophilus,strain PTHi-8273
+727.1592,GCA_900408165.1,727,ampicillin,susceptible,beta-lactam,penicillins,haemophilus,strain PTHi-8273
+108619.155,GCA_003119875.1,108619,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,salmonella,subsp. enterica serovar Newport strain 109
+287.996,GCA_000793785.1,287,meropenem,resistant,beta-lactam,carbapenems,pseudomonas,AZPAE14937
+470.775,GCA_000830055.1,470,amikacin,resistant,aminoglycoside,aminoglycosides,acinetobacter,A1
+1397859.3,GCA_000671895.1,1397859,ethambutol,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK_02_0014
+1313.20542,GCA_901307245.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC314
+1352.185,GCA_900179435.1,1352,tigecycline,susceptible,tetracycline,tetracyclines,enterococcus,strain VREN3291
+1313.19438,GCA_901261825.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC8
+1463165.28,GCA_900559705.1,1463165,ampicillin,resistant,beta-lactam,penicillins,klebsiella,strain 2485STDY5438246
+287.7803,GCA_003968895.1,287,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,strain MRSN436311
+287.1047,GCA_000790685.1,287,levofloxacin,susceptible,quinolone,fluoroquinolones,pseudomonas,AZPAE14885
+287.1047,GCA_000790685.1,287,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,AZPAE14885
+562.45624,GCA_004283475.1,562,cefazolin,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_56
+760831.3,GCA_000232045.2,760831,meropenem,resistant,beta-lactam,carbapenems,streptococcus,GA47281
+760831.3,GCA_000232045.2,760831,levofloxacin,susceptible,quinolone,fluoroquinolones,streptococcus,GA47281
+760831.3,GCA_000232045.2,760831,telithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,GA47281
+573.23223,GCA_003938235.1,573,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,klebsiella,strain KP_030
+727.1538,GCA_900407625.1,727,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,haemophilus,strain PTHi-13064
+1438713.3,GCA_000693215.1,1438713,gentamicin,resistant,aminoglycoside,aminoglycosides,klebsiella,CHS 07
+1422433.3,GCA_000684195.1,1422433,methicillin,resistant,beta-lactam,,staphylococcus,VET0102R
+596.67,GCA_003119515.1,596,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,salmonella,subsp. enterica serovar Muenchen strain 128
+760817.3,GCA_000251725.2,760817,penicillin,resistant,beta-lactam,penicillins,streptococcus,GA43264
+149391.29,GCA_003120415.1,149391,ceftiofur,susceptible,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Braenderup strain 83
+470.643,GCA_000811725.1,470,ceftazidime,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH41491
+562.45595,GCA_004282435.1,562,oxytetracycline,resistant,tetracycline,tetracyclines,escherichia,strain EC_96
+179997.18,GCA_003119155.1,179997,tetracycline,susceptible,tetracycline,tetracyclines,salmonella,subsp. enterica serovar Havana strain 143
+1284830.3,GCA_000406625.1,1284830,tobramycin,resistant,aminoglycoside,aminoglycosides,klebsiella,VAKPC276
+287.7773,GCA_003968035.1,287,levofloxacin,resistant,quinolone,fluoroquinolones,pseudomonas,strain MRSN994
+1313.18702,GCA_901229005.1,1313,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC1
+1402565.3,GCA_000480665.1,1402565,colistin,susceptible,polymyxin,polymyxins,pseudomonas,BL24
+562.45662,GCA_004284345.1,562,chloramphenicol,resistant,amphenicols,miscellaneous,escherichia,strain EC_103
+1284822.3,GCA_000409105.1,1284822,cefepime,resistant,beta-lactam,cephalosporins,klebsiella,UHKPC32
+1313.20846,GCA_901321055.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC6
+1408963.4,GCA_000669095.1,1408963,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,UT0104
+287.5685,GCA_002968515.1,287,meropenem,resistant,beta-lactam,carbapenems,pseudomonas,strain AR_0360
+58712.87,GCA_003117165.1,58712,streptomycin,susceptible,aminoglycoside,aminoglycosides,salmonella,subsp. enterica serovar Anatum strain 193
+1313.18863,GCA_901235555.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC18
+760828.3,GCA_000232065.2,760828,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,GA47033
+1354141.3,GCA_000667005.1,1354141,isoniazid,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,MAL020136
+1408947.4,GCA_000668795.1,1408947,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,UT0082
+1352.19,GCA_900179935.1,1352,teicoplanin,resistant,glycopeptide,glycopeptides,enterococcus,strain VREN3281
+486994.1,GCA_003076955.1,486994,nalidixic_acid,susceptible,quinolone,,salmonella,subsp. enterica serovar Hvittingfoss strain 254
+548.234,GCA_002796405.1,548,gentamicin,susceptible,aminoglycoside,aminoglycosides,klebsiella,strain AR_0018
+548.234,GCA_002796405.1,548,cefepime,susceptible,beta-lactam,cephalosporins,klebsiella,strain AR_0018
+486999.9,GCA_003120715.1,486999,streptomycin,susceptible,aminoglycoside,aminoglycosides,salmonella,subsp. enterica serovar Meleagridis strain 67
+550.1647,GCA_003324425.1,550,aztreonam,resistant,beta-lactam,monobactams,enterobacteriaceae,strain AR_0032
+595.11,GCA_000812595.1,595,amoxicillin_clavulanic_acid,susceptible,beta-lactam,penicillins,salmonella,subsp. enterica serovar Infantis SI54/04
+562.45644,GCA_004283935.1,562,cefazolin,resistant,beta-lactam,cephalosporins,escherichia,strain EC_44
+573.25569,GCA_001701935.1,573,ciprofloxacin,resistant,quinolone,fluoroquinolones,klebsiella,strain 6_GR_12
+573.25569,GCA_001701935.1,573,ceftaroline,resistant,beta-lactam,cephalosporins,klebsiella,strain 6_GR_12
+470.765,GCA_000810465.1,470,ceftazidime,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH34825
+470.765,GCA_000810465.1,470,levofloxacin,resistant,quinolone,fluoroquinolones,acinetobacter,ABUH34825
+1421951.3,GCA_000670535.1,1421951,isoniazid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA35
+1352.1769,GCA_900178625.1,1352,tigecycline,susceptible,tetracycline,tetracyclines,enterococcus,strain VREN3239
+1313.19837,GCA_901281675.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC10
+287.7815,GCA_003969175.1,287,tobramycin,resistant,aminoglycoside,aminoglycosides,pseudomonas,strain MRSN1938
+1313.19511,GCA_901266625.1,1313,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC14
+108619.178,GCA_003078635.1,108619,nalidixic_acid,susceptible,quinolone,,salmonella,subsp. enterica serovar Newport strain 206
+1352.1778,GCA_900178715.1,1352,linezolid,susceptible,linezolid,oxazolidinones,enterococcus,strain VREN2655
+1313.18801,GCA_901233205.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC14
+562.45654,GCA_004284145.1,562,ampicillin_sulbactam,susceptible,beta-lactam,penicillins,escherichia,strain EC_40
+562.30362,GCA_003204155.1,562,cefoxitin,resistant,beta-lactam,cephalosporins,escherichia,strain AR_0085
+1438868.3,GCA_000649455.1,1438868,ofloxacin,resistant,quinolone,fluoroquinolones,mycobacterium,2541MS
+1313.19055,GCA_901242395.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC205
+1313.19743,GCA_901279115.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC18
+1313.19743,GCA_901279115.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC18
+562.45849,GCA_004567165.1,562,ciprofloxacin,resistant,quinolone,fluoroquinolones,escherichia,strain URMC_35
+28150.63,GCA_003571625.1,28150,ceftriaxone,resistant,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Senftenberg strain AR_0127
+399587.1,GCA_002065155.1,399587,meropenem,susceptible,beta-lactam,carbapenems,salmonella,subsp. enterica serovar Rissen strain BCW_2764
+287.8875,GCA_000937495.2,287,nitrofurantoin,resistant,nitrofuran,miscellaneous,pseudomonas,strain MRSN 17623
+287.8875,GCA_000937495.2,287,cefazolin,resistant,beta-lactam,cephalosporins,pseudomonas,strain MRSN 17623
+108619.157,GCA_003119735.1,108619,tetracycline,susceptible,tetracycline,tetracyclines,salmonella,subsp. enterica serovar Newport strain 118
+1448524.3,GCA_000653355.1,1448524,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK_05MA_2015
+727.1577,GCA_900408015.1,727,cefuroxime,susceptible,beta-lactam,cephalosporins,haemophilus,strain PTHi-3511
+562.45623,GCA_004283435.1,562,oxytetracycline,resistant,tetracycline,tetracyclines,escherichia,strain EC_61
+1313.20829,GCA_901319715.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC79
+1402569.3,GCA_000480575.1,1402569,colistin,susceptible,polymyxin,polymyxins,pseudomonas,M8A.3
+904337.3,GCA_000247065.2,904337,methicillin,resistant,beta-lactam,,staphylococcus,VCU120
+1438685.3,GCA_000692715.1,1438685,ciprofloxacin,resistant,quinolone,fluoroquinolones,escherichia,CHS 69
+903896.3,GCA_000278605.1,903896,cefepime,resistant,beta-lactam,cephalosporins,acinetobacter,Naval-17
+1427199.3,GCA_000680275.1,1427199,ethambutol,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-107
+210.6012,GCA_006439795.1,210,tetracycline,susceptible,tetracycline,tetracyclines,helicobacter,strain KH0141
+1284833.4,GCA_000406385.1,1284833,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,klebsiella,KP-7
+108619.181,GCA_003077855.1,108619,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,salmonella,subsp. enterica serovar Newport strain 219
+1313.20095,GCA_901288135.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC8
+98360.98,GCA_002090755.1,98360,ceftriaxone,resistant,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Dublin strain R8_1599_R1
+1105121.3,GCA_000279695.1,1105121,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,GA58771
+573.2256,GCA_003664795.1,573,gentamicin,susceptible,aminoglycoside,aminoglycosides,klebsiella,strain SU5
+470.6212,GCA_003941125.1,470,cefepime,resistant,beta-lactam,cephalosporins,acinetobacter,strain AB_152
+1313.18678,GCA_901227985.1,1313,penicillin,susceptible,beta-lactam,penicillins,streptococcus,strain GPSC34
+1324250.3,GCA_000660865.1,1324250,ethionamide,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0040
+1280.15907,GCA_002905215.1,1280,tetracycline,susceptible,tetracycline,tetracyclines,staphylococcus,strain W55_130515
+470.679,GCA_000809705.1,470,cefotaxime,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH129404
+595.102,GCA_002200365.1,595,kanamycin,susceptible,aminoglycoside,aminoglycosides,salmonella,subsp. enterica serovar Infantis strain UZH-SAL-144-13
+760754.3,GCA_000233265.2,760754,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,GA07228
+624.174,GCA_003903055.1,624,nalidixic_acid,susceptible,quinolone,,shigella,strain 613850
+760797.3,GCA_000232785.2,760797,linezolid,susceptible,linezolid,oxazolidinones,streptococcus,GA19077
+573.25927,GCA_004924315.1,573,aztreonam,resistant,beta-lactam,monobactams,klebsiella,strain ST23
+1324296.3,GCA_000661755.1,1324296,isoniazid,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0089
+562.45626,GCA_004283505.1,562,chloramphenicol,susceptible,amphenicols,miscellaneous,escherichia,strain EC_55
+562.45626,GCA_004283505.1,562,aztreonam,susceptible,beta-lactam,monobactams,escherichia,strain EC_55
+1427283.3,GCA_000655515.1,1427283,ethionamide,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-206
+1324220.3,GCA_000660285.1,1324220,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0003
+573.29596,GCA_902506815.1,573,colistin,susceptible,polymyxin,polymyxins,klebsiella,strain B6
+1427225.3,GCA_000680715.1,1427225,ethionamide,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-135
+573.15042,GCA_002180255.1,573,aztreonam,resistant,beta-lactam,monobactams,klebsiella,strain AR_0158
+1402599.3,GCA_000668155.1,1402599,ethionamide,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,OFXR-30
+192955.203,GCA_003120095.1,192955,nalidixic_acid,susceptible,quinolone,,salmonella,subsp. enterica serovar Kentucky strain 99
+1438781.3,GCA_000694415.1,1438781,cefotaxime,resistant,beta-lactam,cephalosporins,klebsiella,CHS 80
+1438741.3,GCA_000693675.1,1438741,ampicillin,resistant,beta-lactam,penicillins,klebsiella,CHS 35
+595.122,GCA_002200755.1,595,gentamicin,susceptible,aminoglycoside,aminoglycosides,salmonella,subsp. enterica serovar Infantis strain UZH-SAL-53-13
+595.122,GCA_002200755.1,595,streptomycin,susceptible,aminoglycoside,aminoglycosides,salmonella,subsp. enterica serovar Infantis strain UZH-SAL-53-13
+562.7773,GCA_001286265.1,562,tetracycline,susceptible,tetracycline,tetracyclines,escherichia,strain 402605
+287.1229,GCA_000797055.1,287,levofloxacin,susceptible,quinolone,fluoroquinolones,pseudomonas,AZPAE12411
+1418247.3,GCA_000629365.1,1418247,imipenem,susceptible,beta-lactam,carbapenems,pseudomonas,PS75
+1313.20933,GCA_901331005.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC8
+760843.3,GCA_000251885.2,760843,ceftriaxone,resistant,beta-lactam,cephalosporins,streptococcus,GA47628
+1352.1908,GCA_900180015.1,1352,streptomycin,resistant,aminoglycoside,aminoglycosides,enterococcus,strain VREN1846
+1352.1908,GCA_900180015.1,1352,teicoplanin,resistant,glycopeptide,glycopeptides,enterococcus,strain VREN1846
+727.1546,GCA_900407705.1,727,cefuroxime,susceptible,beta-lactam,cephalosporins,haemophilus,strain PTHi-13369
+1423543.3,GCA_000679195.1,1423543,streptomycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,BTB11-210
+1447517.3,GCA_000651135.1,1447517,isoniazid,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,MD14709
+727.1513,GCA_900407375.1,727,cefuroxime,susceptible,beta-lactam,cephalosporins,haemophilus,strain PTHi-10999
+562.19177,GCA_002290835.1,562,nalidixic_acid,resistant,quinolone,,escherichia,strain JEONG-5120
+550.1584,GCA_003288475.1,550,amoxicillin_clavulanic_acid,resistant,beta-lactam,penicillins,enterobacteriaceae,strain AR_038
+1324230.3,GCA_000660485.1,1324230,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,TKK-01-0014
+1427219.3,GCA_000680615.1,1427219,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-128
+1313.1902,GCA_901241315.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC29
+562.45635,GCA_004283715.1,562,streptomycin,resistant,aminoglycoside,aminoglycosides,escherichia,strain EC_47
+470.751,GCA_000809345.1,470,tigecycline,susceptible,tetracycline,tetracyclines,acinetobacter,ABUH45562
+287.1021,GCA_000794055.1,287,colistin,susceptible,polymyxin,polymyxins,pseudomonas,AZPAE14912
+1496.1022,GCA_900011705.1,1496,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0416
+1400918.3,GCA_000674175.1,1400918,ethambutol,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,KT-0075
+1352.1777,GCA_900178705.1,1352,quinupristin_dalfopristin,susceptible,"macrolides, lincosamides and streptogramins",miscellaneous,enterococcus,strain VREN1835
+470.636,GCA_000811865.1,470,gentamicin,resistant,aminoglycoside,aminoglycosides,acinetobacter,ABUH367548
+562.30306,GCA_003173405.1,562,nalidixic_acid,resistant,quinolone,,escherichia,strain KCJ9489
+1324238.3,GCA_000660645.1,1324238,isoniazid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0027
+1496.1438,GCA_900015655.1,1496,clarithromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,clostridioides,strain VL_0256
+158836.157,GCA_003073995.1,158836,ertapenem,susceptible,beta-lactam,carbapenems,enterobacteriaceae,strain AR432
+470.659,GCA_000809965.1,470,meropenem,resistant,beta-lactam,carbapenems,acinetobacter,ABUH106447
+1313.19108,GCA_901244575.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC4
+287.1119,GCA_000795045.1,287,meropenem,resistant,beta-lactam,carbapenems,pseudomonas,AZPAE14811
+1408932.4,GCA_000668515.1,1408932,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,UT0053
+287.1183,GCA_000796255.1,287,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,AZPAE14437
+562.45591,GCA_004282335.1,562,ceftriaxone,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_85
+562.45603,GCA_004282585.1,562,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,escherichia,strain EC_82
+1402593.3,GCA_000668055.1,1402593,para-aminosalisylic_acid,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,OFXR-23
+470.6199,GCA_003940365.1,470,ciprofloxacin,resistant,quinolone,fluoroquinolones,acinetobacter,strain AB_391
+470.6199,GCA_003940365.1,470,meropenem,resistant,beta-lactam,carbapenems,acinetobacter,strain AB_391
+470.697,GCA_000811265.1,470,gentamicin,resistant,aminoglycoside,aminoglycosides,acinetobacter,ABUH370301
+470.6182,GCA_003939625.1,470,imipenem,resistant,beta-lactam,carbapenems,acinetobacter,strain AB_331
+1427293.3,GCA_000655695.1,1427293,kanamycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,XTB13-217
+1352.4232,GCA_003939175.1,1352,linezolid,resistant,linezolid,oxazolidinones,enterococcus,strain EF_275
+1427250.3,GCA_000681175.1,1427250,ethionamide,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-168
+1427250.3,GCA_000681175.1,1427250,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-168
+727.1596,GCA_900408205.1,727,cefepime,susceptible,beta-lactam,cephalosporins,haemophilus,strain PTHi-8814
+1421926.3,GCA_000670035.1,1421926,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA10
+287.7806,GCA_003968985.1,287,tobramycin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,strain MRSN29192
+1438763.3,GCA_000694075.1,1438763,amikacin,resistant,aminoglycoside,aminoglycosides,klebsiella,CHS 57
+1313.1883,GCA_901234445.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC67
+108619.169,GCA_003117815.1,108619,chloramphenicol,susceptible,amphenicols,miscellaneous,salmonella,subsp. enterica serovar Newport strain 9
+1313.18988,GCA_901240295.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC168
+1313.20287,GCA_901296355.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC2
+470.6224,GCA_003941325.1,470,imipenem,resistant,beta-lactam,carbapenems,acinetobacter,strain AB_098
+470.754,GCA_000810565.1,470,gentamicin,resistant,aminoglycoside,aminoglycosides,acinetobacter,ABUH24357
+470.768,GCA_000811945.1,470,levofloxacin,resistant,quinolone,fluoroquinolones,acinetobacter,ABUH4556
+108619.149,GCA_003120375.1,108619,chloramphenicol,susceptible,amphenicols,miscellaneous,salmonella,subsp. enterica serovar Newport strain 85
+1402543.3,GCA_000481105.1,1402543,ceftazidime,susceptible,beta-lactam,cephalosporins,pseudomonas,BL02
+1313.19187,GCA_901247885.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC68
+1280.16864,GCA_003310925.1,1280,clindamycin,resistant,"macrolides, lincosamides and streptogramins",,staphylococcus,strain AF012
+1313.19286,GCA_901252045.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC12
+760852.3,GCA_000251945.2,760852,amoxicillin,susceptible,beta-lactam,penicillins,streptococcus,GA49194
+562.45641,GCA_004283865.1,562,ceftazidime_avibactam,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_05
+90371.2927,GCA_002947135.1,90371,gentamicin,susceptible,aminoglycoside,aminoglycosides,salmonella,subsp. enterica serovar Typhimurium strain AR_0031
+1496.971,GCA_900010145.1,1496,moxifloxacin,resistant,quinolone,fluoroquinolones,peptoclostridiu m,strain VL_0467
+1448687.3,GCA_000663085.1,1448687,isoniazid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,M1441
+1397853.3,GCA_000671775.1,1397853,ciprofloxacin,resistant,quinolone,fluoroquinolones,mycobacterium,TKK_02_0001
+1295782.3,GCA_000659885.1,1295782,kanamycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,TKK_02_0066
+108619.161,GCA_003118635.1,108619,tetracycline,susceptible,tetracycline,tetracyclines,salmonella,subsp. enterica serovar Newport strain 170
+1496.1423,GCA_900012505.1,1496,moxifloxacin,resistant,quinolone,fluoroquinolones,clostridioides,strain VL_0295
+1280.15905,GCA_002905175.1,1280,kanamycin,susceptible,aminoglycoside,aminoglycosides,staphylococcus,strain W57_130515
+1448743.3,GCA_000664145.1,1448743,isoniazid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,M2006
+1402524.3,GCA_000481225.1,1402524,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,BWHPSA024
+149391.23,GCA_003121275.1,149391,ceftiofur,susceptible,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Braenderup strain 40
+562.29002,GCA_003076155.1,562,ampicillin,resistant,beta-lactam,penicillins,escherichia,strain JEONG-9599
+1069625.3,GCA_000252225.2,1069625,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,England14-9
+1313.20017,GCA_901287015.1,1313,penicillin,susceptible,beta-lactam,penicillins,streptococcus,strain GPSC23
+598.32,GCA_003078755.1,598,amoxicillin_clavulanic_acid,susceptible,beta-lactam,penicillins,salmonella,subsp. enterica serovar Rubislaw strain 204
+913070.19,GCA_003077415.1,913070,nalidixic_acid,susceptible,quinolone,,salmonella,subsp. enterica serovar Gaminara strain 230
+1400922.3,GCA_000706505.1,1400922,streptomycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,KT-0079
+1313.20388,GCA_901302795.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC13
+1313.2003,GCA_901287145.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC55
+727.1545,GCA_900407695.1,727,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,haemophilus,strain PTHi-13476
+1427302.3,GCA_000655875.1,1427302,ethambutol,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-231
+562.45675,GCA_004284645.1,562,ceftazidime_avibactam,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_07
+470.63,GCA_000810945.1,470,tetracycline,resistant,tetracycline,tetracyclines,acinetobacter,ABUH195573
+598.33,GCA_003077735.1,598,amoxicillin_clavulanic_acid,susceptible,beta-lactam,penicillins,salmonella,subsp. enterica serovar Rubislaw strain 222
+1448404.3,GCA_000651595.1,1448404,rifampicin,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK_03_0047
+1448404.3,GCA_000651595.1,1448404,kanamycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,TKK_03_0047
+562.45594,GCA_004282415.1,562,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,escherichia,strain EC_76
+562.45594,GCA_004282415.1,562,ceftazidime_avibactam,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_76
+1280.16865,GCA_003310935.1,1280,tetracycline,susceptible,tetracycline,tetracyclines,staphylococcus,strain AD016
+1352.1872,GCA_900179655.1,1352,vancomycin,resistant,glycopeptide,glycopeptides,enterococcus,strain VREN1799
+1773.349,GCA_000786505.1,1773,pyrazinamide,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,49-02
+1324286.3,GCA_000661555.1,1324286,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0078
+1105118.3,GCA_000279775.1,1105118,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,GA58581
+1448763.3,GCA_000664525.1,1448763,isoniazid,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,M2138
+562.28389,GCA_002948655.1,562,ertapenem,susceptible,beta-lactam,carbapenems,escherichia,strain AR_0077
+1283.634,GCA_003428545.1,1283,cefazolin,resistant,beta-lactam,cephalosporins,staphylococcus,strain 0054-1702-2009
+470.746,GCA_000809545.1,470,cefazolin,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH24373
+760856.3,GCA_000233085.2,760856,penicillin,resistant,beta-lactam,penicillins,streptococcus,GA52306
+1313.18798,GCA_901233005.1,1313,penicillin,susceptible,beta-lactam,penicillins,streptococcus,strain GPSC32
+1313.18914,GCA_901237415.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC51
+573.1809,GCA_003071305.1,573,piperacillin_tazobactam,resistant,beta-lactam,penicillins,klebsiella,strain AR_0141
+573.1809,GCA_003071305.1,573,ertapenem,resistant,beta-lactam,carbapenems,klebsiella,strain AR_0141
+287.7809,GCA_003969065.1,287,ceftazidime,susceptible,beta-lactam,cephalosporins,pseudomonas,strain MRSN3587
+562.45643,GCA_004283915.1,562,doxycycline,resistant,tetracycline,tetracyclines,escherichia,strain EC_31
+1352.1786,GCA_900178795.1,1352,linezolid,susceptible,linezolid,oxazolidinones,enterococcus,strain VREN2304
+1352.1786,GCA_900178795.1,1352,gentamicin,resistant,aminoglycoside,aminoglycosides,enterococcus,strain VREN2304
+1398972.3,GCA_000516155.1,1398972,cefepime,resistant,beta-lactam,cephalosporins,acinetobacter,UH5207
+1398950.3,GCA_000515555.1,1398950,amikacin,resistant,aminoglycoside,aminoglycosides,acinetobacter,UH11608
+1398950.3,GCA_000515555.1,1398950,ciprofloxacin,resistant,quinolone,fluoroquinolones,acinetobacter,UH11608
+1313.19672,GCA_901277095.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC41
+573.22561,GCA_003664805.1,573,gentamicin,resistant,aminoglycoside,aminoglycosides,klebsiella,strain SU4
+1413405.3,GCA_000637175.1,1413405,methicillin,resistant,beta-lactam,,staphylococcus,18439-62
+1438746.3,GCA_000693775.1,1438746,ampicillin,resistant,beta-lactam,penicillins,klebsiella,CHS 40
+760792.3,GCA_000251545.2,760792,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,GA17719
+562.19151,GCA_002284675.1,562,gentamicin,susceptible,aminoglycoside,aminoglycosides,escherichia,strain 104
+58712.78,GCA_003118675.1,58712,ciprofloxacin,susceptible,quinolone,fluoroquinolones,salmonella,subsp. enterica serovar Anatum strain 169
+2077136.3,GCA_003071645.1,2077136,levofloxacin,susceptible,quinolone,fluoroquinolones,enterobacteriaceae,complex sp. FDA-CDC-AR_0164
+1313.18893,GCA_901236575.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC18
+1304918.4,GCA_000417385.1,1304918,tobramycin,resistant,aminoglycoside,aminoglycosides,klebsiella,120_1020
+1397877.3,GCA_000672235.1,1397877,streptomycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,TKK_02_0046
+562.45617,GCA_004283315.1,562,oxytetracycline,susceptible,tetracycline,tetracyclines,escherichia,strain EC_22
+1422062.3,GCA_000676175.1,1422062,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA146
+1496.1232,GCA_900015565.1,1496,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0023
+1313.20673,GCA_901312395.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC68
+1423564.3,GCA_000679615.1,1423564,isoniazid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,BTB12-314
+1313.2113,GCA_901339435.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC3
+287.7677,GCA_003936385.1,287,meropenem,resistant,beta-lactam,carbapenems,pseudomonas,strain PA_038
+1352.1853,GCA_900179465.1,1352,teicoplanin,resistant,glycopeptide,glycopeptides,enterococcus,strain VREN1533
+565651.6,GCA_000157275.1,565651,tetracycline,resistant,tetracycline,tetracyclines,enterococcus,ARO1/DG
+1352.1859,GCA_900179525.1,1352,quinupristin_dalfopristin,susceptible,"macrolides, lincosamides and streptogramins",miscellaneous,enterococcus,strain VREN1743
+1313.20442,GCA_901304165.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC2
+1324278.3,GCA_000661405.1,1324278,kanamycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,TKK-01-0068
+1422770.3,GCA_000645615.1,1422770,methicillin,susceptible,beta-lactam,,staphylococcus,VET1025S
+316.429,GCA_003936025.1,316,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,strain PS_138
+1313.1875,GCA_901230655.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC83
+1423504.3,GCA_000678555.1,1423504,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,BTB09-184
+470.627,GCA_000811065.1,470,ampicillin_sulbactam,resistant,beta-lactam,penicillins,acinetobacter,ABUH588663
+562.45666,GCA_004284435.1,562,cefazolin,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_35_B
+562.45666,GCA_004284435.1,562,lincomycin,resistant,"macrolides, lincosamides and streptogramins",miscellaneous,escherichia,strain EC_35_B
+1313.18694,GCA_901228675.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC14
+1280.16568,GCA_003203635.1,1280,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,staphylococcus,strain AR_0228
+1313.2026,GCA_901295565.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC8
+470.8398,GCA_004357215.1,470,ampicillin_sulbactam,resistant,beta-lactam,penicillins,acinetobacter,strain Pesh-26
+1423548.3,GCA_000679295.1,1423548,ethambutol,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,BTB11-299
+316.438,GCA_003936715.1,316,levofloxacin,susceptible,quinolone,fluoroquinolones,pseudomonas,strain PS_110
+316.435,GCA_003936145.1,316,levofloxacin,resistant,quinolone,fluoroquinolones,pseudomonas,strain PS_027
+562.45964,GCA_004681485.1,562,gentamicin,resistant,aminoglycoside,aminoglycosides,escherichia,strain URMC_26
+1284826.3,GCA_000406845.1,1284826,polymyxin_b,susceptible,polymyxin,polymyxins,klebsiella,VAKPC269
+1313.20502,GCA_901305725.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC16
+584.3,GCA_003073935.1,584,meropenem,resistant,beta-lactam,carbapenems,vulgaris,strain AR379
+470.735,GCA_000811225.1,470,gentamicin,resistant,aminoglycoside,aminoglycosides,acinetobacter,ABUH315100
+1313.20153,GCA_901290095.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC18
+1313.1891,GCA_901237245.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC39
+1295720.3,GCA_000659205.1,1295720,moxifloxacin,resistant,quinolone,fluoroquinolones,mycobacterium,TKK_02_0004
+1447456.3,GCA_000658235.1,1447456,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,MD16764
+1324271.3,GCA_000661265.1,1324271,nicotinamide,susceptible,others,miscellaneous,mycobacterium,TKK-01-0061
+562.7729,GCA_001285385.1,562,cefepime,susceptible,beta-lactam,cephalosporins,escherichia,strain 702971
+1284819.3,GCA_000409005.1,1284819,levofloxacin,resistant,quinolone,fluoroquinolones,klebsiella,UHKPC45
+1448471.3,GCA_000652555.1,1448471,kanamycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,TKK_04_0067
+1313.19451,GCA_901263085.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC18
+1313.21069,GCA_901337935.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC11
+1313.20624,GCA_901309845.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC55
+1324218.3,GCA_000660245.1,1324218,isoniazid,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0001
+562.45671,GCA_004284535.1,562,fosfomycin,susceptible,others,miscellaneous,escherichia,strain EC_102
+1418248.3,GCA_000629345.1,1418248,ciprofloxacin,susceptible,quinolone,fluoroquinolones,pseudomonas,PAO1-GFP
+1418248.3,GCA_000629345.1,1418248,imipenem,susceptible,beta-lactam,carbapenems,pseudomonas,PAO1-GFP
+287.889,GCA_000792145.1,287,amikacin,resistant,aminoglycoside,aminoglycosides,pseudomonas,AZPAE15029
+1352.4238,GCA_003939775.1,1352,quinupristin_dalfopristin,susceptible,"macrolides, lincosamides and streptogramins",miscellaneous,enterococcus,strain EF_103
+1448599.3,GCA_000656915.1,1448599,kanamycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,TKK_04_0145
+108619.154,GCA_003120135.1,108619,nalidixic_acid,susceptible,quinolone,,salmonella,subsp. enterica serovar Newport strain 98
+1313.21016,GCA_901335375.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC11
+550.1579,GCA_003204095.1,550,ampicillin_sulbactam,resistant,beta-lactam,penicillins,enterobacteriaceae,strain AR_0154
+1313.20966,GCA_901333355.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC88
+562.45663,GCA_004284355.1,562,amikacin,susceptible,aminoglycoside,aminoglycosides,escherichia,strain EC_08
+727.1557,GCA_900407815.1,727,ampicillin,resistant,beta-lactam,penicillins,haemophilus,strain PTHi-1443
+562.45634,GCA_004283695.1,562,ceftazidime_avibactam,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_49
+562.45634,GCA_004283695.1,562,chloramphenicol,resistant,amphenicols,miscellaneous,escherichia,strain EC_49
+1313.20804,GCA_901319035.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC11
+1421985.3,GCA_000671135.1,1421985,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA69
+470.744,GCA_000809585.1,470,ampicillin_sulbactam,susceptible,beta-lactam,penicillins,acinetobacter,ABUH28081
+1422012.3,GCA_000675235.1,1422012,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA96
+1447493.3,GCA_000650735.1,1447493,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,MD17006
+58095.47,GCA_003120155.1,58095,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,salmonella,subsp. enterica serovar Agona strain 96
+1313.20633,GCA_901310075.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC9
+210.5997,GCA_006438515.1,210,metronidazole,resistant,imidazole ,miscellaneous,helicobacter,strain KH0198
+573.18477,GCA_003194325.1,573,imipenem,resistant,beta-lactam,carbapenems,klebsiella,strain CCUG 70747
+573.18477,GCA_003194325.1,573,ceftazidime,resistant,beta-lactam,cephalosporins,klebsiella,strain CCUG 70747
+1427186.3,GCA_000680035.1,1427186,ofloxacin,susceptible,quinolone,fluoroquinolones,mycobacterium,XTB13-092
+562.45646,GCA_004283965.1,562,minocycline,susceptible,tetracycline,tetracyclines,escherichia,strain EC_26
+1313.20679,GCA_901312815.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC3
+1313.20456,GCA_901304475.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC55
+1313.18802,GCA_901233235.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC3
+1352.1875,GCA_900179685.1,1352,gentamicin,susceptible,aminoglycoside,aminoglycosides,enterococcus,strain VREN1805
+470.656,GCA_000810025.1,470,gentamicin,resistant,aminoglycoside,aminoglycosides,acinetobacter,ABUH430459
+1352.1878,GCA_900179715.1,1352,ampicillin,resistant,beta-lactam,penicillins,enterococcus,strain VREN1801
+287.7836,GCA_003969615.1,287,tobramycin,resistant,aminoglycoside,aminoglycosides,pseudomonas,strain MRSN26263
+1313.18505,GCA_901220305.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC57
+1284813.3,GCA_000406465.1,1284813,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,klebsiella,UHKPC27
+573.23222,GCA_003937565.1,573,ampicillin,resistant,beta-lactam,penicillins,klebsiella,strain KP_040
+562.29001,GCA_003076175.1,562,colistin,resistant,polymyxin,polymyxins,escherichia,strain JEONG-9600
+287.887,GCA_000791855.1,287,meropenem,susceptible,beta-lactam,carbapenems,pseudomonas,AZPAE15031
+1313.20437,GCA_901304075.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC55
+562.45619,GCA_004283375.1,562,nitrofurantoin,resistant,nitrofuran,miscellaneous,escherichia,strain EC_52
+287.894,GCA_000790585.1,287,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,AZPAE15024
+108619.167,GCA_003117835.1,108619,cefoxitin,susceptible,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Newport strain 8
+1438887.3,GCA_000656495.1,1438887,ethionamide,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,UT0032
+1438887.3,GCA_000656495.1,1438887,moxifloxacin,susceptible,quinolone,fluoroquinolones,mycobacterium,UT0032
+1280.15885,GCA_002904775.1,1280,tetracycline,resistant,tetracycline,tetracyclines,staphylococcus,strain N35_200515
+287.5702,GCA_003000695.1,287,ciprofloxacin,resistant,quinolone,fluoroquinolones,pseudomonas,strain AR_0359
+1427264.3,GCA_000655175.1,1427264,isoniazid,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-186
+1352.7843,GCA_004151665.1,1352,tedizolid,susceptible,others,oxazolidinones,enterococcus,strain EF_545
+1351.435,GCA_903818725.1,1351,ampicillin,susceptible,beta-lactam,penicillins,enterococcus,strain 3.11
+1313.19031,GCA_901241755.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC135
+470.673,GCA_000809825.1,470,ciprofloxacin,resistant,quinolone,fluoroquinolones,acinetobacter,ABUH535419
+470.673,GCA_000809825.1,470,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,acinetobacter,ABUH535419
+210.6008,GCA_006439735.1,210,levofloxacin,resistant,quinolone,fluoroquinolones,helicobacter,strain KH0097
+1352.1804,GCA_900178975.1,1352,tigecycline,susceptible,tetracycline,tetracyclines,enterococcus,strain VREN2772
+1105116.3,GCA_000279755.1,1105116,telithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,GA56113
+1438863.3,GCA_000658475.1,1438863,ethambutol,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,2482AR
+1354176.3,GCA_000666625.1,1354176,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,MAL010118
+1313.19265,GCA_901251095.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC10
+1352.18,GCA_900178935.1,1352,teicoplanin,resistant,glycopeptide,glycopeptides,enterococcus,strain VREN2831
+58712.69,GCA_003120115.1,58712,ampicillin,susceptible,beta-lactam,penicillins,salmonella,subsp. enterica serovar Anatum strain 97
+470.722,GCA_000810645.1,470,tetracycline,resistant,tetracycline,tetracyclines,acinetobacter,ABUH134167
+287.5689,GCA_002968755.1,287,tobramycin,resistant,aminoglycoside,aminoglycosides,pseudomonas,strain AR_0356
+1423502.3,GCA_000678515.1,1423502,ethambutol,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,BTB09-151
+595.137,GCA_003117335.1,595,chloramphenicol,susceptible,amphenicols,miscellaneous,salmonella,subsp. enterica serovar Infantis strain 32
+1280.15897,GCA_002905015.1,1280,fosfomycin,susceptible,others,miscellaneous,staphylococcus,strain HCW23_100415
+1427238.3,GCA_000680955.1,1427238,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-152
+287.1019,GCA_000793885.1,287,colistin,susceptible,polymyxin,polymyxins,pseudomonas,AZPAE14914
+624.1219,GCA_002246205.1,624,ertapenem,resistant,beta-lactam,carbapenems,shigella,strain ECCRETH06
+1280.16557,GCA_003194005.1,1280,penicillin,resistant,beta-lactam,penicillins,staphylococcus,strain AR_0469
+1280.16557,GCA_003194005.1,1280,doxycycline,susceptible,tetracycline,tetracyclines,staphylococcus,strain AR_0469
+1421956.3,GCA_000670635.1,1421956,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA40
+562.19631,GCA_002180215.1,562,gentamicin,susceptible,aminoglycoside,aminoglycosides,escherichia,strain AR_0151
+28901.1842,GCA_002043405.1,28901,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,salmonella,strain BCW_6298
+1313.20328,GCA_901299365.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC91
+553571.3,GCA_000174515.1,553571,vancomycin,susceptible,glycopeptide,glycopeptides,staphylococcus,A6300
+1397940.3,GCA_000673475.1,1397940,ofloxacin,susceptible,quinolone,fluoroquinolones,mycobacterium,TKK_04_0031
+1313.19746,GCA_901279185.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC41
+1448725.3,GCA_000663825.1,1448725,rifampicin,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,M1913
+1313.20439,GCA_901304105.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC5
+1313.20439,GCA_901304105.1,1313,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC5
+1421986.3,GCA_000671155.1,1421986,ciprofloxacin,susceptible,quinolone,fluoroquinolones,mycobacterium,TB_RSA70
+1438719.3,GCA_000693295.1,1438719,meropenem,resistant,beta-lactam,carbapenems,klebsiella,CHS 13
+562.45659,GCA_004284275.1,562,doxycycline,resistant,tetracycline,tetracyclines,escherichia,strain EC_11
+1313.20605,GCA_901309355.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC27
+760840.3,GCA_000251845.2,760840,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,GA47522
+470.762,GCA_000809445.1,470,imipenem,resistant,beta-lactam,carbapenems,acinetobacter,ABUH45538
+1313.20601,GCA_901309155.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC55
+562.3328,GCA_003324445.1,562,tetracycline,resistant,tetracycline,tetracyclines,escherichia,strain AR_0450
+562.3328,GCA_003324445.1,562,doripenem,resistant,beta-lactam,carbapenems,escherichia,strain AR_0450
+1400871.3,GCA_000673535.1,1400871,para-aminosalisylic_acid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,KT-0002
+287.125,GCA_000796555.1,287,colistin,susceptible,polymyxin,polymyxins,pseudomonas,AZPAE12136
+2172528.3,GCA_003077595.1,2172528,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,salmonella,subsp. enterica serovar Giessen strain 225
+108619.163,GCA_003118075.1,108619,cefoxitin,susceptible,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Newport strain 154
+470.698,GCA_000809325.1,470,tetracycline,resistant,tetracycline,tetracyclines,acinetobacter,ABUH507300
+1313.19454,GCA_901263265.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC129
+470.676,GCA_000809765.1,470,amikacin,resistant,aminoglycoside,aminoglycosides,acinetobacter,ABUH293412
+470.676,GCA_000809765.1,470,ampicillin_sulbactam,resistant,beta-lactam,penicillins,acinetobacter,ABUH293412
+562.45587,GCA_004282265.1,562,amikacin,susceptible,aminoglycoside,aminoglycosides,escherichia,strain EC_89
+1310743.3,GCA_000584475.1,1310743,carbapenems,resistant,beta-lactam,,acinetobacter,1264936
+1398967.3,GCA_000515895.1,1398967,levofloxacin,resistant,quinolone,fluoroquinolones,acinetobacter,UH2307
+1496.1067,GCA_900012435.1,1496,clindamycin,susceptible,"macrolides, lincosamides and streptogramins",,peptoclostridiu m,strain VL_0054
+548.38,GCA_003950545.1,548,ertapenem,resistant,beta-lactam,carbapenems,klebsiella,strain URMC221
+621.161,GCA_002317935.1,621,ceftriaxone,resistant,beta-lactam,cephalosporins,shigella,strain ECFood+03
+562.2285,GCA_000500895.1,562,piperacillin_tazobactam,susceptible,beta-lactam,penicillins,escherichia,GSK202B
+1352.1764,GCA_900178575.1,1352,gentamicin,susceptible,aminoglycoside,aminoglycosides,enterococcus,strain VREN2307
+287.5747,GCA_003074095.1,287,aztreonam,resistant,beta-lactam,monobactams,pseudomonas,strain AR_0440
+287.7775,GCA_003968115.1,287,ceftazidime,resistant,beta-lactam,cephalosporins,pseudomonas,strain MRSN7014
+1280.16838,GCA_003310395.1,1280,vancomycin,susceptible,glycopeptide,glycopeptides,staphylococcus,strain AK046
+287.7825,GCA_003969395.1,287,imipenem,susceptible,beta-lactam,carbapenems,pseudomonas,strain MRSN1613
+1438739.3,GCA_000693635.1,1438739,meropenem,resistant,beta-lactam,carbapenems,klebsiella,CHS 33
+615.636,GCA_003071625.1,615,meropenem,resistant,beta-lactam,carbapenems,serratia,strain AR_0121
+1284807.4,GCA_000417165.1,1284807,levofloxacin,resistant,quinolone,fluoroquinolones,klebsiella,UHKPC31
+1448527.3,GCA_000658635.1,1448527,ofloxacin,susceptible,quinolone,fluoroquinolones,mycobacterium,TKK_05SA_0011
+287.7839,GCA_003969655.1,287,gentamicin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,strain MRSN18562
+1402550.3,GCA_000480965.1,1402550,levofloxacin,susceptible,quinolone,fluoroquinolones,pseudomonas,BL09
+1402530.3,GCA_000520435.1,1402530,colistin,susceptible,polymyxin,polymyxins,pseudomonas,BWHPSA038
+149391.43,GCA_003118975.1,149391,chloramphenicol,susceptible,amphenicols,miscellaneous,salmonella,subsp. enterica serovar Braenderup strain 151
+1313.18873,GCA_901235945.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC17
+573.1542,GCA_002180155.1,573,cefazolin,resistant,beta-lactam,cephalosporins,klebsiella,strain AR_0112
+573.15217,GCA_002180155.1,573,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,klebsiella,strain AR_0112
+553583.3,GCA_000174575.1,553583,daptomycin,susceptible,others,lipopeptides,staphylococcus,A9635
+1417030.3,GCA_000669595.1,1417030,rifabutin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,KT-0086
+1284814.3,GCA_000408985.1,1284814,imipenem,susceptible,beta-lactam,carbapenems,klebsiella,UHKPC 52
+1417008.3,GCA_000669315.1,1417008,ethionamide,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,KT-0004
+1354120.3,GCA_000667405.1,1354120,ciprofloxacin,susceptible,quinolone,fluoroquinolones,mycobacterium,MAL020181
+1438756.3,GCA_000693935.1,1438756,ampicillin,resistant,beta-lactam,penicillins,klebsiella,CHS 50
+562.19178,GCA_002290865.1,562,chloramphenicol,susceptible,amphenicols,miscellaneous,escherichia,strain JEONG-5232
+760785.3,GCA_000279575.1,760785,cefotaxime,susceptible,beta-lactam,cephalosporins,streptococcus,GA17301
+760785.3,GCA_000279575.1,760785,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,GA17301
+287.7685,GCA_003937375.1,287,ceftolozane_tazobactam,susceptible,beta-lactam,cephalosporins,pseudomonas,strain PA_114
+1448819.3,GCA_000665545.1,1448819,streptomycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,H3361
+573.22565,GCA_003664895.1,573,meropenem,susceptible,beta-lactam,carbapenems,klebsiella,strain SU12
+1313.20712,GCA_901315625.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC114
+573.2322,GCA_003937525.1,573,gentamicin,susceptible,aminoglycoside,aminoglycosides,klebsiella,strain KP_046
+573.23205,GCA_003937025.1,573,aztreonam,resistant,beta-lactam,monobactams,klebsiella,strain KP_301
+470.74,GCA_000809665.1,470,cefepime,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH28092
+108619.165,GCA_003117955.1,108619,sulfisoxazole,susceptible,sulfonamides and trimethoprim,,salmonella,subsp. enterica serovar Newport strain 5
+1496.1171,GCA_900014475.1,1496,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0377
+1448802.3,GCA_000665225.1,1448802,rifampicin,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,M2384
+1313.18793,GCA_901232515.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC10
+1402571.3,GCA_000480535.1,1402571,gentamicin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,M9A.1
+1422063.3,GCA_000676195.1,1422063,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA147
+1422082.3,GCA_000676575.1,1422082,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA166
+562.28805,GCA_003073955.1,562,amikacin,susceptible,aminoglycoside,aminoglycosides,escherichia,strain AR434
+1397855.3,GCA_000671815.1,1397855,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,TKK_02_0003
+470.6226,GCA_003941405.1,470,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,acinetobacter,strain AB_074
+1496.976,GCA_900010385.1,1496,ceftriaxone,resistant,beta-lactam,cephalosporins,peptoclostridiu m,strain VL_0412
+1427278.3,GCA_000655435.1,1427278,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-200
+470.5299,GCA_003345795.1,470,minocycline,susceptible,tetracycline,tetracyclines,acinetobacter,strain Pesh-31
+1496.1154,GCA_900014185.1,1496,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0372
+1496.986,GCA_900010855.1,1496,clindamycin,susceptible,"macrolides, lincosamides and streptogramins",,peptoclostridiu m,strain VL_0029
+1313.19104,GCA_901244445.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC56
+1313.18848,GCA_901234985.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC9
+1284815.3,GCA_000406605.1,1284815,doxycycline,resistant,tetracycline,tetracyclines,klebsiella,UHKPC24
+470.652,GCA_000811545.1,470,meropenem,resistant,beta-lactam,carbapenems,acinetobacter,ABUH381467
+562.45668,GCA_004284455.1,562,cefotetan,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_17
+562.4564,GCA_004283855.1,562,meropenem,susceptible,beta-lactam,carbapenems,escherichia,strain EC_30
+562.4564,GCA_004283855.1,562,amikacin,susceptible,aminoglycoside,aminoglycosides,escherichia,strain EC_30
+1438757.3,GCA_000693955.1,1438757,ciprofloxacin,resistant,quinolone,fluoroquinolones,klebsiella,CHS 51
+470.658,GCA_000810005.1,470,tetracycline,resistant,tetracycline,tetracyclines,acinetobacter,ABUH384450
+562.45916,GCA_004569695.1,562,levofloxacin,resistant,quinolone,fluoroquinolones,escherichia,strain URMC_108
+1397905.3,GCA_000672775.1,1397905,streptomycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,TKK_03_0081
+573.23211,GCA_003937135.1,573,cefotetan,resistant,beta-lactam,cephalosporins,klebsiella,strain KP_160
+1352.7849,GCA_004151775.1,1352,dalbavancin,resistant,glycopeptide,,enterococcus,strain EF_539
+470.759,GCA_000809465.1,470,cefotaxime,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH24343
+1402489.3,GCA_000481925.1,1402489,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,CF18
+1313.20948,GCA_901332035.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC145
+1422655.3,GCA_000644735.1,1422655,methicillin,resistant,beta-lactam,,staphylococcus,VET0433R
+562.23,GCA_000471425.1,562,amoxicillin,resistant,beta-lactam,penicillins,escherichia,M20
+1448450.3,GCA_000652195.1,1448450,rifampicin,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK_03_0116
+470.6171,GCA_003939395.1,470,ceftazidime,resistant,beta-lactam,cephalosporins,acinetobacter,strain AB_US_1
+287.1153,GCA_000794735.1,287,ceftazidime,resistant,beta-lactam,cephalosporins,pseudomonas,AZPAE14700
+149391.47,GCA_003117435.1,149391,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,salmonella,subsp. enterica serovar Braenderup strain 28
+1427241.3,GCA_000681015.1,1427241,ethionamide,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,XTB13-155
+1313.18907,GCA_901237125.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC25
+1313.19224,GCA_901249415.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC10
+58712.83,GCA_003117635.1,58712,amoxicillin_clavulanic_acid,susceptible,beta-lactam,penicillins,salmonella,subsp. enterica serovar Anatum strain 16
+1496.1176,GCA_900014535.1,1496,azithromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0389
+1496.1079,GCA_900012735.1,1496,moxifloxacin,susceptible,quinolone,fluoroquinolones,peptoclostridiu m,strain VL_0178
+760842.3,GCA_000251865.2,760842,cefuroxime,resistant,beta-lactam,cephalosporins,streptococcus,GA47597
+1448762.3,GCA_000664505.1,1448762,streptomycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,M2139
+1352.4239,GCA_003939805.1,1352,ampicillin,resistant,beta-lactam,penicillins,enterococcus,strain EF_078
+470.743,GCA_000809605.1,470,ceftazidime,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH23684
+1438722.3,GCA_000688555.1,1438722,ertapenem,resistant,beta-lactam,carbapenems,klebsiella,CHS 16
+1313.18857,GCA_901235295.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC29
+1313.18869,GCA_901235725.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC13
+90371.2942,GCA_003119095.1,90371,nalidixic_acid,susceptible,quinolone,,salmonella,subsp. enterica serovar Typhimurium strain 146
+1352.4237,GCA_003939765.1,1352,linezolid,susceptible,linezolid,oxazolidinones,enterococcus,strain EF_169
+1313.20485,GCA_901305275.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC55
+1422481.3,GCA_000642035.1,1422481,methicillin,resistant,beta-lactam,,staphylococcus,VET0178R
+470.6229,GCA_003941435.1,470,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,acinetobacter,strain AB_056
+1448530.3,GCA_000653435.1,1448530,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,TKK_05SA_0016
+470.5302,GCA_003345845.1,470,gentamicin,resistant,aminoglycoside,aminoglycosides,acinetobacter,strain Pesh-20
+470.6184,GCA_003939655.1,470,ceftriaxone,resistant,beta-lactam,cephalosporins,acinetobacter,strain AB_186
+98360.9,GCA_002090385.1,98360,cefoxitin,resistant,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Dublin strain R8_3349_R1
+1438771.3,GCA_000694215.1,1438771,cefazolin,resistant,beta-lactam,cephalosporins,klebsiella,CHS 65
+287.5956,GCA_003194245.1,287,ampicillin,resistant,beta-lactam,penicillins,pseudomonas,strain CCUG 70744
+470.73,GCA_000811345.1,470,ceftazidime,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH410108
+1313.20482,GCA_901305225.1,1313,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC43
+1447471.3,GCA_000650415.1,1447471,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,MD17517
+573.23212,GCA_003937145.1,573,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,klebsiella,strain KP_135
+573.23212,GCA_003937145.1,573,cefazolin,resistant,beta-lactam,cephalosporins,klebsiella,strain KP_135
+1313.20418,GCA_901303585.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC32
+1352.1805,GCA_900178985.1,1352,linezolid,susceptible,linezolid,oxazolidinones,enterococcus,strain VREN2829
+1313.18903,GCA_901236995.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC56
+1352.1813,GCA_900179065.1,1352,tigecycline,susceptible,tetracycline,tetracyclines,enterococcus,strain VREN3283
+470.1405,GCA_001399655.1,470,sulfonamides,resistant,sulfonamides and trimethoprim,miscellaneous,acinetobacter,strain D36
+1324241.3,GCA_000660705.1,1324241,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0030
+1427288.3,GCA_000655595.1,1427288,streptomycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,XTB13-211
+1496.106,GCA_900012265.1,1496,moxifloxacin,resistant,quinolone,fluoroquinolones,peptoclostridiu m,strain VL_0158
+1427193.3,GCA_000680175.1,1427193,kanamycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,XTB13-100
+470.624,GCA_000811085.1,470,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,acinetobacter,ABUH392684
+1313.19749,GCA_901279295.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC9
+1354150.3,GCA_000666505.1,1354150,streptomycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,MAL010106
+562.4562,GCA_004283395.1,562,nitrofurantoin,susceptible,nitrofuran,miscellaneous,escherichia,strain EC_60
+1427307.3,GCA_000655975.1,1427307,kanamycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,XTB13-237
+1313.19619,GCA_901273735.1,1313,penicillin,susceptible,beta-lactam,penicillins,streptococcus,strain GPSC4
+573.17914,GCA_002968475.1,573,cefotaxime,resistant,beta-lactam,cephalosporins,klebsiella,strain AR_0363
+1398948.3,GCA_000515515.1,1398948,imipenem,resistant,beta-lactam,carbapenems,acinetobacter,UH10107
+595.148,GCA_003119315.1,595,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,salmonella,subsp. enterica serovar Infantis strain 137
+760766.3,GCA_000251405.2,760766,penicillin,resistant,beta-lactam,penicillins,streptococcus,GA11856
+108619.87,GCA_002090615.1,108619,ceftiofur,resistant,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Newport strain R8_2947_R1
+1448654.3,GCA_000655075.1,1448654,isoniazid,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,M1304
+562.45627,GCA_004283535.1,562,ceftiofur,susceptible,beta-lactam,cephalosporins,escherichia,strain EC_65
+1313.18539,GCA_901221935.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC21
+470.71,GCA_000810875.1,470,aztreonam,resistant,beta-lactam,monobactams,acinetobacter,ABUH507263
+1313.18428,GCA_901216385.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC21
+1324299.3,GCA_000661815.1,1324299,rifampicin,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0092
+1313.20555,GCA_901307755.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC35
+470.761,GCA_000809425.1,470,cefazolin,resistant,beta-lactam,cephalosporins,acinetobacter,ABUH31539
+1282.2719,GCA_003325735.1,1282,ampicillin_sulbactam,susceptible,beta-lactam,penicillins,staphylococcus,strain CSF41498
+1282.2719,GCA_003325735.1,1282,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,staphylococcus,strain CSF41498
+1324258.3,GCA_000661025.1,1324258,capreomycin,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0048
+903922.3,GCA_000309175.1,903922,cefazolin,resistant,beta-lactam,cephalosporins,acinetobacter,Naval-2
+1280.1686,GCA_003310835.1,1280,rifampicin,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,staphylococcus,strain AH027
+1313.19469,GCA_901264175.1,1313,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC1
+28147.38,GCA_003120855.1,28147,streptomycin,susceptible,aminoglycoside,aminoglycosides,salmonella,subsp. enterica serovar Oranienburg strain 61
+1397886.3,GCA_000672415.1,1397886,ethionamide,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK_02_0073
+470.504,GCA_003194535.1,470,cefotaxime,resistant,beta-lactam,cephalosporins,acinetobacter,strain CCUG 70743
+1313.21079,GCA_901338315.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC59
+598.31,GCA_003117475.1,598,ceftiofur,susceptible,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Rubislaw strain 24
+1313.19158,GCA_901246735.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC11
+1295775.3,GCA_000659825.1,1295775,nicotinamide,resistant,others,miscellaneous,mycobacterium,TKK_02_0059
+1295766.3,GCA_000659685.1,1295766,pyrazinamide,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK_02_0050
+470.6223,GCA_003941315.1,470,ampicillin_sulbactam,resistant,beta-lactam,penicillins,acinetobacter,strain AB_091
+1496.1073,GCA_900012515.1,1496,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0353
+90371.293,GCA_003117055.1,90371,nalidixic_acid,susceptible,quinolone,,salmonella,subsp. enterica serovar Typhimurium strain 208
+470.2257,GCA_001664915.1,470,ertapenem,resistant,beta-lactam,carbapenems,acinetobacter,strain CCF21
+611.29,GCA_001692595.1,611,ampicillin,resistant,beta-lactam,penicillins,salmonella,subsp. enterica serovar Heidelberg strain AMR588-04-00318
+1354106.3,GCA_000667565.1,1354106,rifampicin,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,MAL020195
+1397857.3,GCA_000671855.1,1397857,moxifloxacin,resistant,quinolone,fluoroquinolones,mycobacterium,TKK_02_0012
+760806.3,GCA_000251685.2,760806,chloramphenicol,resistant,amphenicols,miscellaneous,streptococcus,GA40563
+1448497.3,GCA_000652995.1,1448497,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,TKK_05MA_0018
+470.688,GCA_000810345.1,470,ampicillin_sulbactam,resistant,beta-lactam,penicillins,acinetobacter,ABUH189355
+1313.20325,GCA_901299155.1,1313,chloramphenicol,susceptible,amphenicols,miscellaneous,streptococcus,strain GPSC7
+1313.18669,GCA_901227625.1,1313,tetracycline,susceptible,tetracycline,tetracyclines,streptococcus,strain GPSC19
+1423474.3,GCA_000678015.1,1423474,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,BTB07-323
+903909.3,GCA_000305315.1,903909,amikacin,resistant,aminoglycoside,aminoglycosides,acinetobacter,Naval-83
+470.7,GCA_000810585.1,470,imipenem,resistant,beta-lactam,carbapenems,acinetobacter,ABUH184295
+287.7799,GCA_003968585.1,287,aztreonam,resistant,beta-lactam,monobactams,pseudomonas,strain MRSN321
+1408909.4,GCA_000674755.1,1408909,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,UT0009
+1352.4209,GCA_003938025.1,1352,chloramphenicol,susceptible,amphenicols,miscellaneous,enterococcus,strain EF_155
+1447532.3,GCA_000629245.1,1447532,levofloxacin,susceptible,quinolone,fluoroquinolones,pseudomonas,3577
+1280.16553,GCA_003193765.1,1280,clindamycin,susceptible,"macrolides, lincosamides and streptogramins",,staphylococcus,strain AR_0471
+1284789.4,GCA_000417105.1,1284789,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,klebsiella,UHKPC28
+1313.20568,GCA_901308175.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC44
+1313.19671,GCA_901276895.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC22
+287.7828,GCA_003969405.1,287,meropenem,susceptible,beta-lactam,carbapenems,pseudomonas,strain MRSN1617
+1324253.3,GCA_000660925.1,1324253,ethionamide,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0043
+287.1215,GCA_000795405.1,287,meropenem,resistant,beta-lactam,carbapenems,pseudomonas,AZPAE13757
+1313.19244,GCA_901250075.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC26
+287.5751,GCA_003073695.1,287,meropenem,resistant,beta-lactam,carbapenems,pseudomonas,strain AR441
+1313.20841,GCA_901320445.1,1313,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC18
+562.5745,GCA_000830035.1,562,cefuroxime,resistant,beta-lactam,cephalosporins,escherichia,C41(DE3)
+562.31454,GCA_900490565.1,562,ciprofloxacin,susceptible,quinolone,fluoroquinolones,escherichia,strain KCRI-21 strain RDK36_21
+470.8399,GCA_004357275.1,470,polymyxin_b,susceptible,polymyxin,polymyxins,acinetobacter,strain Pesh-13
+287.4059,GCA_002193745.1,287,aztreonam,resistant,beta-lactam,monobactams,pseudomonas,strain 2321
+1417013.3,GCA_000669395.1,1417013,para-aminosalisylic_acid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,KT-0025
+470.654,GCA_000810065.1,470,meropenem,resistant,beta-lactam,carbapenems,acinetobacter,ABUH17465
+470.654,GCA_000810065.1,470,gentamicin,resistant,aminoglycoside,aminoglycosides,acinetobacter,ABUH17465
+1280.16776,GCA_003309165.1,1280,streptomycin,resistant,aminoglycoside,aminoglycosides,staphylococcus,strain YF037
+470.6202,GCA_003940875.1,470,doxycycline,resistant,tetracycline,tetracyclines,acinetobacter,strain AB_193
+287.4072,GCA_002194005.1,287,meropenem,susceptible,beta-lactam,carbapenems,pseudomonas,strain 717
+903899.3,GCA_000286535.1,903899,tobramycin,resistant,aminoglycoside,aminoglycosides,acinetobacter,IS-123
+595.108,GCA_002200485.1,595,amoxicillin_clavulanic_acid,susceptible,beta-lactam,penicillins,salmonella,subsp. enterica serovar Infantis strain UZH-SAL-111-10
+90371.2471,GCA_002090945.1,90371,ceftriaxone,susceptible,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Typhimurium strain R8_5213_R1
+1313.19842,GCA_901281785.1,1313,penicillin,resistant,beta-lactam,penicillins,streptococcus,strain GPSC21
+1427237.3,GCA_000680935.1,1427237,kanamycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,XTB13-150
+210.6031,GCA_006440195.1,210,clarithromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,helicobacter,strain KH0113
+1496.1025,GCA_900011815.1,1496,ceftriaxone,susceptible,beta-lactam,cephalosporins,peptoclostridiu m,strain VL_0048
+1310675.3,GCA_000582015.1,1310675,carbapenems,resistant,beta-lactam,,acinetobacter,1526966
+903945.3,GCA_000335555.1,903945,ampicillin,resistant,beta-lactam,penicillins,acinetobacter,WC-743
+287.6329,GCA_003324385.1,287,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,strain AR_0449
+470.629,GCA_000810985.1,470,meropenem,resistant,beta-lactam,carbapenems,acinetobacter,ABUH588656
+562.45653,GCA_004284135.1,562,levofloxacin,resistant,quinolone,fluoroquinolones,escherichia,strain EC_42
+470.4785,GCA_003010655.1,470,ceftriaxone,resistant,beta-lactam,cephalosporins,acinetobacter,strain AR_0102
+760804.3,GCA_000251645.2,760804,vancomycin,susceptible,glycopeptide,glycopeptides,streptococcus,GA40183
+760784.3,GCA_000232705.2,760784,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,GA17227
+1422040.3,GCA_000675735.1,1422040,kanamycin,susceptible,aminoglycoside,aminoglycosides,mycobacterium,TB_RSA124
+1427177.3,GCA_000679875.1,1427177,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,XTB13-081
+1402511.3,GCA_000481485.1,1402511,colistin,susceptible,polymyxin,polymyxins,pseudomonas,BWHPSA011
+727.1554,GCA_900407785.1,727,tetracycline,susceptible,tetracycline,tetracyclines,haemophilus,strain PTHi-13477
+562.45596,GCA_004282455.1,562,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,escherichia,strain EC_90
+470.703,GCA_000810185.1,470,ampicillin_sulbactam,susceptible,beta-lactam,penicillins,acinetobacter,ABUH71279
+760847.3,GCA_000233045.2,760847,cefuroxime,resistant,beta-lactam,cephalosporins,streptococcus,GA47778
+1313.18744,GCA_901230535.1,1313,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC16
+1352.1831,GCA_900179245.1,1352,ampicillin,resistant,beta-lactam,penicillins,enterococcus,strain VREN1534
+562.30435,GCA_003288455.1,562,ampicillin,resistant,beta-lactam,penicillins,escherichia,strain AR_451
+115981.59,GCA_003078975.1,115981,sulfisoxazole,susceptible,sulfonamides and trimethoprim,,salmonella,subsp. enterica serovar Montevideo strain 199
+1280.159,GCA_002905075.1,1280,kanamycin,susceptible,aminoglycoside,aminoglycosides,staphylococcus,strain W46_140415
+1280.11258,GCA_900125785.1,1280,levofloxacin,susceptible,quinolone,fluoroquinolones,staphylococcus,strain 3688STDY6124865
+1280.15878,GCA_002904635.1,1280,clindamycin,susceptible,"macrolides, lincosamides and streptogramins",,staphylococcus,strain W24A_090215
+1496.973,GCA_900010345.1,1496,clarithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,peptoclostridiu m,strain VL_0140
+1400884.3,GCA_000673755.1,1400884,ofloxacin,resistant,quinolone,fluoroquinolones,mycobacterium,KT-0022
+1324270.3,GCA_000661245.1,1324270,ofloxacin,susceptible,quinolone,fluoroquinolones,mycobacterium,TKK-01-0060
+1438838.3,GCA_000649555.1,1438838,isoniazid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,1430BH
+1417023.3,GCA_000669535.1,1417023,cycloserine,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,KT-0060
+1280.21073,GCA_005774645.1,1280,oxacillin,susceptible,beta-lactam,penicillins,staphylococcus,strain 0537-0302-2015
+1313.1963,GCA_901274155.1,1313,erythromycin,resistant,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC5
+1310722.3,GCA_000584175.1,1310722,imipenem,susceptible,beta-lactam,carbapenems,acinetobacter,825610
+1448680.3,GCA_000662945.1,1448680,streptomycin,resistant,aminoglycoside,aminoglycosides,mycobacterium,M1422
+573.17908,GCA_002948565.1,573,trimethoprim_sulphamethoxazole,resistant,sulfonamides and trimethoprim,miscellaneous,klebsiella,strain AR_0066
+1422016.3,GCA_000675315.1,1422016,isoniazid,resistant,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TB_RSA100
+1313.18732,GCA_901230075.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC14
+1313.19153,GCA_901246385.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC3
+149391.32,GCA_003120075.1,149391,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,salmonella,subsp. enterica serovar Braenderup strain 100
+287.7789,GCA_003968375.1,287,amikacin,susceptible,aminoglycoside,aminoglycosides,pseudomonas,strain MRSN315
+1313.20604,GCA_901309315.1,1313,tetracycline,resistant,tetracycline,tetracyclines,streptococcus,strain GPSC139
+573.18472,GCA_003186535.1,573,nitrofurantoin,resistant,nitrofuran,miscellaneous,klebsiella,strain 203
+1304921.4,GCA_000406745.1,1304921,cefepime,resistant,beta-lactam,cephalosporins,klebsiella,440_1540
+287.6327,GCA_003324275.1,287,aztreonam,resistant,beta-lactam,monobactams,pseudomonas,strain AR_0457
+287.7812,GCA_003969105.1,287,aztreonam,resistant,beta-lactam,monobactams,pseudomonas,strain MRSN20176
+1324233.3,GCA_000660545.1,1324233,clofazimine,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK-01-0018
+562.2292,GCA_000471285.1,562,ciprofloxacin,resistant,quinolone,fluoroquinolones,escherichia,M13
+1408937.4,GCA_000668615.1,1408937,moxifloxacin,susceptible,quinolone,fluoroquinolones,mycobacterium,UT0059
+46626.4,GCA_003117975.1,46626,ceftiofur,resistant,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Give strain 4
+149391.27,GCA_003120575.1,149391,cefoxitin,susceptible,beta-lactam,cephalosporins,salmonella,subsp. enterica serovar Braenderup strain 75
+1448393.3,GCA_000651375.1,1448393,ethambutol,susceptible,J04 Drugs for treatment of tuberculosis,miscellaneous,mycobacterium,TKK_03_0021
+1313.20366,GCA_901302145.1,1313,erythromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,streptococcus,strain GPSC3
+1352.1886,GCA_900179795.1,1352,streptomycin,resistant,aminoglycoside,aminoglycosides,enterococcus,strain VREN1843
+1313.21076,GCA_901338175.1,1313,trimethoprim_sulphamethoxazole,susceptible,sulfonamides and trimethoprim,miscellaneous,streptococcus,strain GPSC50
+108619.171,GCA_003117595.1,108619,azithromycin,susceptible,"macrolides, lincosamides and streptogramins",macrolides,salmonella,subsp. enterica serovar Newport strain 19
+28147.4,GCA_003077455.1,28147,ciprofloxacin,susceptible,quinolone,fluoroquinolones,salmonella,subsp. enterica serovar Oranienburg strain 228
+287.7686,GCA_003937395.1,287,imipenem,susceptible,beta-lactam,carbapenems,pseudomonas,strain PA_113
